@@ -39,7 +39,7 @@ The ready to use (widescreen) images are in the [PreFormatted](./Backglass/PreFo
 
 ### Star Wars™ Pinball: Rogue One™
 
-- Star Wars™ Pinball: Rogue One™ - **~~MISSING~~**
+- Star Wars™ Pinball: Rogue One™ - **OK**
 
 ### Star Wars™ Pinball: The Force Awakens™ Pack
 
@@ -148,11 +148,11 @@ The ready to use (widescreen) images are in the [PreFormatted](./Backglass/PreFo
 
 ## The Walking Dead Pinball
 
-- The Walking Dead Pinball - **~~MISSING~~**
+- The Walking Dead Pinball - **OK**
 
 ## Super League Football
 
-- Super League Football - **~~MISSING~~**
+- Super League Football - **OK**
 
 # Zen Pinball DLC
 
