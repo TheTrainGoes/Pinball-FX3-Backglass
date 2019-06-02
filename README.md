@@ -1,8 +1,8 @@
 Williams™ Pinball
 
-- [] Williams™ Pinball: Volume 2 – Attack from Mars
-  • Williams™ Pinball: Volume 2 – Black Rose
-  • Williams™ Pinball: Volume 2 – The Party Zone
+[ ] Williams™ Pinball: Volume 2 – Attack from Mars
+• Williams™ Pinball: Volume 2 – Black Rose
+• Williams™ Pinball: Volume 2 – The Party Zone
 
 • Williams™ Pinball: Volume 1 – Fish Tales
 • Williams™ Pinball: Volume 1 – Junk Yard
