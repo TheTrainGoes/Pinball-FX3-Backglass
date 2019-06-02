@@ -5,7 +5,7 @@ They have been pre-formated for use in a cabinet with a three monitor setup wher
 They have been named so that you can drop them all in and use without any work.
 
 The Raw (PSD) files are located in the individual directories.  
-The ready to use (widescreen) images are in the [PreFormatted](PreFormatted) directory
+The ready to use (widescreen) images are in the [PreFormatted](./Backglass/PreFormatted) directory
 
 # Tables & Status
 
