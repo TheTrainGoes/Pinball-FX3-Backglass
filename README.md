@@ -24,6 +24,11 @@ The ready to use (widescreen) images are in the [PreFormatted](./Backglass/PreFo
 - Williams™ Pinball: Volume 2 – Black Rose - **OK**
 - Williams™ Pinball: Volume 2 – The Party Zone - **OK**
 
+### Volume 4.5 - Universal Monster Pack
+
+- Williams™ Pinball: Universal Monsters Pack - Creature From The Black Lagoon - **OK**
+- Williams™ Pinball: Universal Monsters Pack - Monster Bash - **OK**
+
 ## Star Wars™
 
 ### Star Wars™ Pinball: Solo Pack
