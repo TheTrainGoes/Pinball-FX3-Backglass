@@ -18,28 +18,28 @@ The ready to use (widescreen) images are in the [PreFormatted](./Backglass/PreFo
 - Williams™ Pinball: Volume 1 – The Getaway Highspeed II
 
 ### Volume 2
-Williams™ Pinball: Volume 2 – Attack from Mars
-Williams™ Pinball: Volume 2 – Black Rose
-Williams™ Pinball: Volume 2 – The Party Zone
+- Williams™ Pinball: Volume 2 – Attack from Mars
+- Williams™ Pinball: Volume 2 – Black Rose
+- Williams™ Pinball: Volume 2 – The Party Zone
 
 ### Volume 3
-Williams™ Pinball: Volume 3 – Theater of Magic
-Williams™ Pinball: Volume 3 – Safe Cracker
-Williams™ Pinball: Volume 3 – The Chamption Pub
+- Williams™ Pinball: Volume 3 – Theater of Magic
+- Williams™ Pinball: Volume 3 – Safe Cracker
+- Williams™ Pinball: Volume 3 – The Chamption Pub
 
 ### Volume 4
-Williams™ Pinball: Volume 4 – White Water
-Williams™ Pinball: Volume 4 – Red and Ted's Road Show
-Williams™ Pinball: Volume 4 – Hurricane
+- Williams™ Pinball: Volume 4 – White Water
+- Williams™ Pinball: Volume 4 – Red and Ted's Road Show
+- Williams™ Pinball: Volume 4 – Hurricane
 
 ### Volume 4.5 - Universal Monster Pack
-Williams™ Pinball: Universal Monsters Pack - Creature From The Black Lagoon
-Williams™ Pinball: Universal Monsters Pack - Monster Bash
+- Williams™ Pinball: Universal Monsters Pack - Creature From The Black Lagoon
+- Williams™ Pinball: Universal Monsters Pack - Monster Bash
 
 ### Volume 5
-Williams™ Pinball: Volume 5 – Tales of the Arabian Nights
-Williams™ Pinball: Volume 5 – Cirqus Voltaire
-Williams™ Pinball: Volume 5 – No Good Gofers
+- Williams™ Pinball: Volume 5 – Tales of the Arabian Nights
+- Williams™ Pinball: Volume 5 – Cirqus Voltaire
+- Williams™ Pinball: Volume 5 – No Good Gofers
 
 ## Star Wars™
 
