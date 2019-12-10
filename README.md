@@ -12,10 +12,10 @@ The ready to use (widescreen) images are in the [PreFormatted](./Backglass/PreFo
 ## Williams™ Pinball
 
 ### Volume 1
-Williams™ Pinball: Volume 1 – Fish Tales
-Williams™ Pinball: Volume 1 – Junk Yard
-Williams™ Pinball: Volume 1 – Medieval Madness
-Williams™ Pinball: Volume 1 – The Getaway Highspeed II
+- Williams™ Pinball: Volume 1 – Fish Tales
+- Williams™ Pinball: Volume 1 – Junk Yard
+- Williams™ Pinball: Volume 1 – Medieval Madness
+- Williams™ Pinball: Volume 1 – The Getaway Highspeed II
 
 ### Volume 2
 Williams™ Pinball: Volume 2 – Attack from Mars
