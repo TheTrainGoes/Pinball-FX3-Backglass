@@ -11,7 +11,8 @@ The ready to use (widescreen) images are in the [PreFormatted](./Backglass/PreFo
 
 ## Williams™ Pinball
 
-### [Volume 1] (./Backglass/Williams Volume 1)
+### Volume 1 
+[Click here](./Backglass/Williams Volume 1)
 - Williams™ Pinball: Volume 1 – Fish Tales
 - Williams™ Pinball: Volume 1 – Junk Yard
 - Williams™ Pinball: Volume 1 – Medieval Madness
