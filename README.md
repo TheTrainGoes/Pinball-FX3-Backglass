@@ -7,7 +7,7 @@ They have been named so that you can drop them all in and use without any work.
 The Raw (PSD) files are located in the individual directories for some tables.  
 The ready to use (widescreen) images are in the [PreFormatted](./Backglass/PreFormatted) directory
 
-Bonus!  Check out this collection of [playfields](./playfield) as well.  They make great wall art!
+Bonus!  Check out this collection of [playfields](./Playfield) as well.  They make great wall art!
 
 # Tables & Status
 
