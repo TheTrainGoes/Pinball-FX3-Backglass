@@ -1,0 +1,11 @@
+Description of files:
+
+`Unmodified` - No changes made to original file, sizes will be slightly different from game to game
+`No stretch with grill` - Image on a 1920 x 1080 base, no stretching
+`No stretch full screen` - Image on a 1920 x 1080 base, zoomed to fill screen, no stretching
+
+Recommmended usages:
+
+`Unmodified` - For those that want to modify images further or work on a custom display setup
+`No stretch with grill` - For those that are running a three monitor (or two monitor + DMD) setup and want full screen at the expense of image loss
+`No stretch full screen` - For those that are running a three monitor (or two monitor + DMD) setup and want full screen without image loss
