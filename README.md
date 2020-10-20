@@ -43,6 +43,11 @@ Bonus!  Check out this collection of [playfields](./Playfield) as well.  They ma
 - Williams™ Pinball: Volume 5 – Cirqus Voltaire
 - Williams™ Pinball: Volume 5 – No Good Gofers
 
+### [Volume 5](./Backglass/Williams%20Volume%206)
+- Williams™ Pinball: Volume 6 – Dr. Dude
+- Williams™ Pinball: Volume 6 – Fun House
+- Williams™ Pinball: Volume 6 – Space Station
+
 ## Star Wars™
 
 ### Star Wars™ Pinball: Solo Pack
